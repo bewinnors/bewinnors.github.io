@@ -1,6 +1,6 @@
 # work process
 work_process:
-  enable : true
+  enable : false
   title : "Work Process"
   item:
   - title : "Research and Plan"
@@ -19,19 +19,19 @@ work_process:
 # team
 team:
   enable: true
-  title : "My Team"
+  title : "Faculty Advisory Team"
   team_member:
-    - title : "Jack Schenziwe"
-      image : "images/team/member-1.png"
-      designation : "Project Manager"
+    - title : "Charles W. Liu, Ph.D."
+      image : "images/team/liu_print.jpg"
+      designation : "Chair & Advisor, ECE Department"
       
-    - title : "Julias Carlie"
-      image : "images/team/member-2.png"
-      designation : "Web Developer"
+    - title : "Deborah Won, Ph.D"
+      image : "images/team/won_print.jpg"
+      designation : "Professor, Biomedical Engineering"
       
-    - title : "John Doe"
-      image : "images/team/member-3.png"
-      designation : "Designer"
+    - title : "Dr. Curtis Wang, Ph.D."
+      image : "images/team/wang_print.png"
+      designation : "Professor, Computer Engineering"
 
 
 # client logo slider

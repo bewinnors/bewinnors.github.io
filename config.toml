@@ -3,7 +3,7 @@ baseURL = "http://examplesite.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "CSULA"
+title = "BE-Winnors"
 
 # css plugins
 [[params.plugins.css]]
@@ -35,12 +35,12 @@ weight = 1
 
 [[menu.main]]
 URL = "blog"
-name = "Blog"
+name = "Program"
 weight = 2
 
 [[menu.main]]
-URL = "portfolio"
-name = "Portfolio"
+URL = "about"
+name = "Team"
 weight = 3
 
 [[menu.main]]
@@ -57,15 +57,9 @@ logo = ""
 theme_color = "#41228e"
 # contact info
 phone = "+880 2544 658 256"
-email = "steve.fruits@email.com"
-address = "125/A, CA Commercial Area, California, USA"
-# meta description
-author = "Johnathan Smith"
-description = "This is meta description"
-# google analytics
-google_analytics_id = "" # Your ID
+email = "ADDRESS_HERE@email.com"
 # copyright
-copyright = "Copyright &copy; 2021 a Theme by [Gethugothemes](https://gethugothemes.com)"
+copyright = "&copy; 2021"
 
 
 # preloader
@@ -90,20 +84,3 @@ map_marker = "images/marker.png"
 [params.cookies]
 enable = true
 expire_days = 2
-
-# social site
-[[params.social]]
-icon = "ti-facebook"
-URL = "#"
-
-[[params.social]]
-icon = "ti-instagram"
-URL = "#"
-
-[[params.social]]
-icon = "ti-dribbble"
-URL = "#"
-
-[[params.social]]
-icon = "ti-twitter-alt"
-URL = "#"

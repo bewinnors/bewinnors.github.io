@@ -1,19 +1,19 @@
 # banner
 banner:
-  title : "Hi! I’m <br> Christoher <br> UX designer"
+  title : "BE-Winnors"
 
 # about
 about:
   enable : true
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  content : "Apply today to become part of the Be-Winnors intern team! Interns work on exciting projects which touch multiple engineering disciplines as they gain relevant work experience and make life-long professional connections."
   button:
     enable : true
-    label : "know more"
-    URL : "about"
+    label : "Apply Today!"
+    URL : "https://forms.gle/mjJKGEFbQjbZ3NuY8"
 
 # skill
 skill:
-  enable : true
+  enable : false
   title : "Skills"
   item:
     - title : "Web Design"
@@ -34,7 +34,7 @@ skill:
 
 # experience
 experience:
-  enable : true
+  enable : false
   title : "Experience"
   item: 
     - logo : "images/experience/icon-1.png"
@@ -54,7 +54,7 @@ experience:
 
 # education
 education:
-  enable : true
+  enable : false
   title : "Education"
   item:
     - title : "Marters in UX Design"
@@ -76,33 +76,33 @@ education:
 # service
 service:
   enable : true
-  title : "Services"
+  title : "Project Subject Areas"
   item:
-    - title : "UI Design"
+    - title : "Biomedical Engineering"
       icon : "ti-palette"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       highlighted : false
 
-    - title : "UX Design"
+    - title : "Computer Vision"
       icon : "ti-vector"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       highlighted : true
 
-    - title : "Interaction Design"
+    - title : "CAD (Computer-Aided Design)"
       icon : "ti-panel"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       highlighted : false
 
-# portfolio
+# gallery portfolio  
 portfolio:
   enable : true
-  title : "Portfolio"
+  title : "Gallery"
   item_show : 5
   # portfolio item comes from 'data/portfolio.yml' item.
 
 # testimonial
 testimonial:
-  enable : true
+  enable : false
   title : "Testimonials"
   item:
     - name : "Jesica Gomez"
@@ -122,7 +122,7 @@ testimonial:
 
 # client logo slider
 clients_logo_slider:
-  enable : true
+  enable : false
   item:
     - logo : "images/clients-logo/client-logo-1.png"
       URL : "http://examplesite.com"
@@ -152,10 +152,9 @@ clients_logo_slider:
       URL : "http://examplesite.com"
       
     - logo : "images/clients-logo/client-logo-5.png"
-      URL : "#"
 
 # blog
 blog:
-  enable : true
+  enable : false
   title : "Blogs"
   # blog post comes from "content/blog" folder
