@@ -31,22 +31,27 @@ link = "plugins/google-map/map.js"
 [[menu.main]]
 URL = "about"
 name = "About"
+weight = 5
+
+[[menu.main]]
+URL = "program"
+name = "Program"
 weight = 1
 
 [[menu.main]]
-URL = "blog"
-name = "Program"
+URL = "project"
+name = "Project"
 weight = 2
 
 [[menu.main]]
-URL = "about"
+URL = "team"
 name = "Team"
 weight = 3
 
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 4
+weight = 5
 
 
 # default parameters
