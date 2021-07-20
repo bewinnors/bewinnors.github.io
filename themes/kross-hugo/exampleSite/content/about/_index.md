@@ -1,9 +1,6 @@
 ---
-title: "About"
-description: "This is meta description."
-top_image : "images/about/new_author.jpg"
-# bottom_image : "images/about/new_author.jpg"
-author_signature : "images/about/signature.png"
+title: "Team"
+description: ""
 draft: false
 ---
 
