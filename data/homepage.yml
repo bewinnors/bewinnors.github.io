@@ -1,6 +1,6 @@
 # banner
 banner:
-  title : "BE-Winnors"
+  title : "Cal State LA"
 
 # about
 about:
@@ -78,19 +78,19 @@ service:
   enable : true
   title : "Project Subject Areas"
   item:
-    - title : "Biomedical Engineering"
+    - title : "Robotic Arm Design"
       icon : "ti-palette"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : "Mesfin ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       highlighted : false
 
     - title : "Computer Vision"
       icon : "ti-vector"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : "The Computer Vision team oversees the modification of the RealSense Camera’s on the shower assistant robot."
       highlighted : true
 
     - title : "CAD (Computer-Aided Design)"
       icon : "ti-panel"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : "Mesfin ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       highlighted : false
 
 # gallery portfolio  
