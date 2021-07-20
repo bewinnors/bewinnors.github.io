@@ -34,13 +34,13 @@ name = "About"
 weight = 5
 
 [[menu.main]]
-URL = "program"
-name = "Program"
+URL = "project"
+name = "Project"
 weight = 1
 
 [[menu.main]]
-URL = "project"
-name = "Project"
+URL = "program"
+name = "Program"
 weight = 2
 
 [[menu.main]]
