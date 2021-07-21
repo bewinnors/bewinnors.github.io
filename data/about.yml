@@ -16,10 +16,10 @@ work_process:
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 
-# team
-team:
+# faculty team
+faculty_team:
   enable: true
-  title : "Faculty Advisory Team"
+  title : "Faculty Mentor Team"
   team_member:
     - title : "Charles W. Liu, Ph.D."
       image : "images/team/liu_print.jpg"
@@ -33,9 +33,42 @@ team:
       image : "images/team/wang_print.png"
       designation : "Professor, Computer Engineering"
 
+# mentor team
+mentor_team:
+  enable: true
+  title : "Peer Mentor Team"
+  team_member:
+    - title : "Maria Gonzalez"
+      image : "images/team/liu_print.jpg"
+      designation : "Computer Vision Team"
+      
+    - title : "Abigail Zulueta"
+      image : "images/team/won_print.jpg"
+      designation : "Computer Vision Team"
+      
+    - title : "Janice Nguyen"
+      image : "images/team/wang_print.png"
+      designation : "Professor, Computer Engineering"
+
+    - title : "Janice Nguyen"
+      image : "images/team/wang_print.png"
+      designation : "Professor, Computer Engineering"
+
+    - title : "Janice Nguyen"
+      image : "images/team/wang_print.png"
+      designation : "Professor, Computer Engineering"
+
+    - title : "Janice Nguyen"
+      image : "images/team/wang_print.png"
+      designation : "Professor, Computer Engineering"
+
+    - title : "Janice Nguyen"
+      image : "images/team/wang_print.png"
+      designation : "Professor, Computer Engineering"
+
 
 # client logo slider
 clients_logo_slider:
   enable : true
-  title : "My Clients"
+  title : "Sponsors"
   # clients logo comes from 'data/homepage.yml' file

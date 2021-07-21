@@ -10,7 +10,7 @@
     </div>
   </div>
   <!-- background shapes -->
-  <img src="{{`images/illustrations/page-title.png`| relURL}}" alt="illustrations" class="bg-shape-1 w-100">
+  <img src="{{`images/illustrations/home-page.png`| relURL}}" alt="illustrations" class="bg-shape-1 w-100">
   <img src="{{`images/illustrations/dots-group-sm.svg`| relURL}}" alt="illustrations" class="bg-shape-2">
   <img src="{{`images/illustrations/leaf-yellow.svg`| relURL}}" alt="illustrations" class="bg-shape-3">
   <img src="{{`images/illustrations/leaf-orange.svg`| relURL}}" alt="illustrations" class="bg-shape-4">
@@ -18,30 +18,6 @@
   <img src="{{`images/illustrations/leaf-cyan-lg.svg`| relURL}}" alt="illustrations" class="bg-shape-6">
 </section>
 <!-- /page title -->
-
-<!-- about -->
-<section class="section pt-5">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-8">
-        {{ .Content }}
-      </div>
-      <div class="col-md-4 text-center drag-lg-top">
-        <div class="shadow-down mb-4">
-          <img src="{{.Params.top_image | absURL }}" alt="author"
-            class="img-fluid w-100 rounded-lg border-thick border-white">
-            <img src="{{.Params.middle_image | absURL }}" alt="author"
-            class="img-fluid w-100 rounded-lg border-thick border-white">
-            <img src="{{.Params.bottom_image | absURL }}" alt="author"
-            class="img-fluid w-100 rounded-lg border-thick border-white">
-        </div>
-        <img src="{{.Params.author_signature | absURL }}" alt="signature" class="img-fluid">
-        <h4>{{ site.Params.Author }}</h4>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- /about -->
 
 <!-- Work Process -->
 {{ if site.Data.about.work_process.enable }}
@@ -66,9 +42,9 @@
 {{ end }}
 <!-- ./Work Process -->
 
-<!-- team -->
-{{ if site.Data.about.team.enable }}
-{{ with site.Data.about.team }}
+<!-- Faculty Team -->
+{{ if site.Data.about.faculty_team.enable }}
+{{ with site.Data.about.faculty_team }}
 <section class="section bg-cover" data-background="{{`images/backgrounds/team-bg.png`|relURL}}">
   <div class="container">
     <div class="row">
@@ -91,7 +67,34 @@
 </section>
 {{ end }}
 {{ end }}
-<!-- /team -->
+<!-- /Faculty_Team -->
+
+<!-- Mentor Team -->
+{{ if site.Data.about.mentor_team.enable }}
+{{ with site.Data.about.mentor_team }}
+<section class="section bg-cover" data-background="{{`images/backgrounds/team-bg.png`|relURL}}">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">{{ .title | markdownify }}</h2>
+      </div>
+      {{ range .team_member }}
+      <div class="col-md-4 col-sm-6 mb-4 mb-md-0">
+        <div class="card text-center">
+          <img src="{{ .image | absURL }}" class="card-img-top">
+          <div class="card-body">
+            <h4 class="card-title">{{.title }}</h4>
+            <p class="text-light font-secondary">{{.designation }}</p>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /Mentor_Team -->
 
 {{ if site.Data.about.clients_logo_slider.enable }}
 <section class="section">
