@@ -22,15 +22,15 @@ faculty_team:
   title : "Faculty Mentor Team"
   team_member:
     - title : "Charles W. Liu, Ph.D."
-      image : "images/team/liu_print.jpg"
+      image : "images/about/liu_print.jpg"
       designation : "Chair & Advisor, ECE Department"
       
     - title : "Deborah Won, Ph.D"
-      image : "images/team/won_print.jpg"
+      image : "images/about/won_print.jpg"
       designation : "Professor, Biomedical Engineering"
       
     - title : "Dr. Curtis Wang, Ph.D."
-      image : "images/team/wang_print.png"
+      image : "images/about/wang_print.png"
       designation : "Professor, Computer Engineering"
 
 # mentor team
@@ -39,31 +39,31 @@ mentor_team:
   title : "Peer Mentor Team"
   team_member:
     - title : "Maria Gonzalez"
-      image : "images/team/liu_print.jpg"
+      image : "images/about/liu_print.jpg"
       designation : "Computer Vision Team"
       
     - title : "Abigail Zulueta"
-      image : "images/team/won_print.jpg"
+      image : "images/about/won_print.jpg"
       designation : "Computer Vision Team"
       
     - title : "Janice Nguyen"
-      image : "images/team/wang_print.png"
+      image : "images/about/wang_print.png"
       designation : "Professor, Computer Engineering"
 
     - title : "Janice Nguyen"
-      image : "images/team/wang_print.png"
+      image : "images/about/wang_print.png"
       designation : "Professor, Computer Engineering"
 
     - title : "Janice Nguyen"
-      image : "images/team/wang_print.png"
+      image : "images/about/wang_print.png"
       designation : "Professor, Computer Engineering"
 
     - title : "Janice Nguyen"
-      image : "images/team/wang_print.png"
+      image : "images/about/wang_print.png"
       designation : "Professor, Computer Engineering"
 
     - title : "Janice Nguyen"
-      image : "images/team/wang_print.png"
+      image : "images/about/wang_print.png"
       designation : "Professor, Computer Engineering"
 
 

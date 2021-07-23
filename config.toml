@@ -43,10 +43,11 @@ URL = "program"
 name = "Program"
 weight = 2
 
-[[menu.main]]
-URL = "team"
-name = "Team"
-weight = 3
+# team page should be commented  
+# [[menu.main]]
+# URL = "team"
+# name = "Team"
+# weight = 3
 
 [[menu.main]]
 URL = "contact"

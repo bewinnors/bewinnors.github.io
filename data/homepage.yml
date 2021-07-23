@@ -93,12 +93,13 @@ service:
       content : "Mesfin ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       highlighted : false
 
-# gallery portfolio  
-portfolio:
+# gallery project  used to be portfolio 
+project:
   enable : true
   title : "Gallery"
   item_show : 5
   # portfolio item comes from 'data/portfolio.yml' item.
+  # should be project item comes from 'data/project.yml' item.
 
 # testimonial
 testimonial:
@@ -131,8 +132,9 @@ clients_logo_slider:
     - logo : "images/clients-logo/client-logo-2.png"
       URL : "#"
 
-# blog
-blog:
-  enable : false
-  title : "Blogs"
+# blog used to be blog
+program:
+  enable : true
+  title : "Programs"
   # blog post comes from "content/blog" folder
+  # is now program post comes from "content/program" folder

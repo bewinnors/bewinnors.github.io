@@ -1,9 +1,9 @@
 ---
-title: "Amazon increase income 1.5 Million"
+title: "Summer 2021 Internship E"
 date: 2019-05-12T12:14:34+06:00
-image: "images/blog/post-5.jpg"
+image: "images/program/post-5.jpg"
 description: "This is meta description."
-draft: false
+draft: true
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
