@@ -38,33 +38,31 @@ mentor_team:
   enable: true
   title : "Peer Mentor Team"
   team_member:
-    - title : "Maria Gonzalez"
-      image : "images/about/liu_print.jpg"
+    - title : "Janice Nguyen"
+      image : "images/about/Janicenguyen.jpg"
       designation : "Computer Vision Team"
       
     - title : "Abigail Zulueta"
-      image : "images/about/won_print.jpg"
+      image : "images/about/Abigailzulete.jpg"
       designation : "Computer Vision Team"
       
-    - title : "Janice Nguyen"
-      image : "images/about/wang_print.png"
-      designation : "Professor, Computer Engineering"
+    - title : "Christopher Morales"
+      image : "images/about/Christophermorales.jpg"
+      designation : "Computer Vision Team"
 
-    - title : "Janice Nguyen"
-      image : "images/about/wang_print.png"
-      designation : "Professor, Computer Engineering"
+    - title : "Maria Gonzalez"
+      image : "images/about/Mariagonzalez.jpg"
+      designation : "Robotic Arm Team"
 
-    - title : "Janice Nguyen"
-      image : "images/about/wang_print.png"
-      designation : "Professor, Computer Engineering"
+    - title : "Steven Magañgita"
+      image : "images/about/stevenmagana.jpg"
+      designation : "Robotic Arm Team"
 
-    - title : "Janice Nguyen"
-      image : "images/about/wang_print.png"
-      designation : "Professor, Computer Engineering"
+    - title : "Everardo Bugaran"
+      image : "images/about/Everardobugarin.jpg"
+      designation : "Robotic Arm Team"
 
-    - title : "Janice Nguyen"
-      image : "images/about/wang_print.png"
-      designation : "Professor, Computer Engineering"
+    
 
 
 # client logo slider

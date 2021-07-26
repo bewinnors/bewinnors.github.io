@@ -1,145 +1,91 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CSULA</title>
+    <title>BE WINNORS</title>
     <link>http://examplesite.com/</link>
-    <description>Recent content on CSULA</description>
+    <description>Recent content on BE WINNORS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="http://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Jul 2021 12:14:34 +0600</lastBuildDate><atom:link href="http://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Amazon increase income 1.5 Million</title>
-      <link>http://examplesite.com/blog/post-1/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      <title>Summer 2021 Internship A</title>
+      <link>http://examplesite.com/program/post-1/</link>
+      <pubDate>Thu, 22 Jul 2021 12:14:34 +0600</pubDate>
       
-      <guid>http://examplesite.com/blog/post-1/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Amazon increase income 1.5 Million</title>
-      <link>http://examplesite.com/blog/post-2/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
-      
-      <guid>http://examplesite.com/blog/post-2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Amazon increase income 1.5 Million</title>
-      <link>http://examplesite.com/blog/post-3/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
-      
-      <guid>http://examplesite.com/blog/post-3/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Amazon increase income 1.5 Million</title>
-      <link>http://examplesite.com/blog/post-4/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
-      
-      <guid>http://examplesite.com/blog/post-4/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Amazon increase income 1.5 Million</title>
-      <link>http://examplesite.com/blog/post-5/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
-      
-      <guid>http://examplesite.com/blog/post-5/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Amazon increase income 1.5 Million</title>
-      <link>http://examplesite.com/blog/post-6/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
-      
-      <guid>http://examplesite.com/blog/post-6/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>http://examplesite.com/program/post-1/</guid>
+      <description>The Be-Winnors project hosts a yearly cohort for student interns to learn how to apply their STEM education to conduct research in an academic environment.</description>
     </item>
     
     <item>
       <title>Artwork Design</title>
-      <link>http://examplesite.com/portfolio/project-1/</link>
+      <link>http://examplesite.com/project/project-1/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://examplesite.com/portfolio/project-1/</guid>
+      <guid>http://examplesite.com/project/project-1/</guid>
+      <description>Project Requirements B lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Artwork Design</title>
+      <link>http://examplesite.com/project/project-2/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>http://examplesite.com/project/project-2/</guid>
       <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Artwork Design</title>
-      <link>http://examplesite.com/portfolio/project-2/</link>
+      <link>http://examplesite.com/project/project-3/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://examplesite.com/portfolio/project-2/</guid>
+      <guid>http://examplesite.com/project/project-3/</guid>
       <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Artwork Design</title>
-      <link>http://examplesite.com/portfolio/project-3/</link>
+      <link>http://examplesite.com/project/project-4/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://examplesite.com/portfolio/project-3/</guid>
+      <guid>http://examplesite.com/project/project-4/</guid>
+      <description>Project Requirements A lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Artwork Design</title>
+      <link>http://examplesite.com/project/project-5/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>http://examplesite.com/project/project-5/</guid>
       <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Artwork Design</title>
-      <link>http://examplesite.com/portfolio/project-4/</link>
+      <link>http://examplesite.com/project/project-6/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://examplesite.com/portfolio/project-4/</guid>
+      <guid>http://examplesite.com/project/project-6/</guid>
       <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
-      <title>Artwork Design</title>
-      <link>http://examplesite.com/portfolio/project-5/</link>
+      <title>Summer 2021 Internship B</title>
+      <link>http://examplesite.com/program/post-2/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://examplesite.com/portfolio/project-5/</guid>
-      <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>http://examplesite.com/program/post-2/</guid>
+      <description>Students are paired with CSULA EECS faculty and graduate student mentors to help make meaningful contributions in one of the projects core technology areas.</description>
     </item>
     
     <item>
-      <title>Artwork Design</title>
-      <link>http://examplesite.com/portfolio/project-6/</link>
+      <title>Summer 2021 Internship C</title>
+      <link>http://examplesite.com/program/post-3/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://examplesite.com/portfolio/project-6/</guid>
-      <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Artwork Design</title>
-      <link>http://examplesite.com/portfolio/project-7/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
-      
-      <guid>http://examplesite.com/portfolio/project-7/</guid>
-      <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Artwork Design</title>
-      <link>http://examplesite.com/portfolio/project-8/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
-      
-      <guid>http://examplesite.com/portfolio/project-8/</guid>
-      <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Artwork Design</title>
-      <link>http://examplesite.com/portfolio/project-9/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
-      
-      <guid>http://examplesite.com/portfolio/project-9/</guid>
-      <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>http://examplesite.com/program/post-3/</guid>
+      <description>Students are paired with CSULA EECS faculty and graduate student mentors to help make meaningful contributions in one of the projects core technology areas.</description>
     </item>
     
   </channel>

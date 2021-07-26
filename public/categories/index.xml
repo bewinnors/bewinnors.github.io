@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on CSULA</title>
+    <title>Categories on BE WINNORS</title>
     <link>http://examplesite.com/categories/</link>
-    <description>Recent content in Categories on CSULA</description>
+    <description>Recent content in Categories on BE WINNORS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="http://examplesite.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>branding</title>
-      <link>http://examplesite.com/categories/branding/</link>
+      <title>Computer Vision</title>
+      <link>http://examplesite.com/categories/computer-vision/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://examplesite.com/categories/branding/</guid>
+      <guid>http://examplesite.com/categories/computer-vision/</guid>
       <description></description>
     </item>
     
@@ -40,6 +40,15 @@
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
       <guid>http://examplesite.com/categories/illustration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robot Arm</title>
+      <link>http://examplesite.com/categories/robot-arm/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>http://examplesite.com/categories/robot-arm/</guid>
       <description></description>
     </item>
     
