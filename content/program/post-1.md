@@ -1,5 +1,5 @@
 ---
-title: "Summer 2021 Internship A"
+title: "Summer 2021 Internship"
 date: 2021-07-22T12:14:34+06:00
 image: "images/program/post-5.jpg"
 description: "This is meta description."
