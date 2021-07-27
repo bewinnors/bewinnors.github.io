@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>Program on BE WINNORS</title>
     <link>http://examplesite.com/program/</link>
     <description>Recent content in Program on BE WINNORS</description>
@@ -32,6 +33,66 @@
       
       <guid>http://examplesite.com/program/post-3/</guid>
       <description>Students are paired with CSULA EECS faculty and graduate student mentors to help make meaningful contributions in one of the projects core technology areas.</description>
+=======
+    <title>Blog on CSULA</title>
+    <link>http://examplesite.com/blog/</link>
+    <description>Recent content in Blog on CSULA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="http://examplesite.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amazon increase income 1.5 Million</title>
+      <link>http://examplesite.com/blog/post-1/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>http://examplesite.com/blog/post-1/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Amazon increase income 1.5 Million</title>
+      <link>http://examplesite.com/blog/post-2/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>http://examplesite.com/blog/post-2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Amazon increase income 1.5 Million</title>
+      <link>http://examplesite.com/blog/post-3/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>http://examplesite.com/blog/post-3/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Amazon increase income 1.5 Million</title>
+      <link>http://examplesite.com/blog/post-4/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>http://examplesite.com/blog/post-4/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Amazon increase income 1.5 Million</title>
+      <link>http://examplesite.com/blog/post-5/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>http://examplesite.com/blog/post-5/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Amazon increase income 1.5 Million</title>
+      <link>http://examplesite.com/blog/post-6/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>http://examplesite.com/blog/post-6/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+>>>>>>> 8d92e1712937373fe6581c5967a1a23ff47fbc4d
     </item>
     
   </channel>
