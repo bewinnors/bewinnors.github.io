@@ -1,6 +1,7 @@
 {{ define "main" }}
 
 <!-- page title -->
+<link rel="shortcut icon" type="image/png" href="images/favicon.png">
 
 <section class="page-title-alt bg-primary position-relative overflow-hidden">
   <div class="container">
@@ -50,6 +51,25 @@
 {{ end }}
 {{ end }}
 <!-- ./Work Process -->
+
+<!-- about description -->
+{{ if site.Data.about.about_description.enable }}
+{{ with site.Data.about.about_description }}
+<section class="section bg-cover" data-background="{{`images/backgrounds/team-bg.png`|relURL}}">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">{{ .title | markdownify }}</h2>
+      </div>
+      {{ range .paragraphs }}
+        <p>{{ .text }}</p>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /about description -->
 
 <!-- Faculty Team -->
 {{ if site.Data.about.faculty_team.enable }}
