@@ -1,5 +1,5 @@
 {{ if site.Params.contact.enable }}
-<!-- contact -->
+<!--contact
 <section class="section section-on-footer" data-background="{{`images/backgrounds/bg-dots.png` | absURL}}">
   <div class="container">
     <div class="row">
@@ -29,7 +29,23 @@
     </div>
   </div>
 </section>
-<!-- /contact -->
+
+/contact -->
+
+<!--sign up-->
+<section class="section section-on-footer" data-background="{{`images/backgrounds/bg-dots.png` | absURL}}">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 mx-auto">
+            <div class="col-lg-6 col-10 mx-auto">
+                <button class="btn btn-primary w-100"><a href="https://docs.google.com/forms/d/16pPYZQzpXz4TmjW_PJXabCWrjvOcy-3LkA4kT1mfv48/edit" target="_blank" style="color: #fff">Sign up</a></button>
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 {{ end }}
 
 <!-- footer -->
@@ -37,17 +53,17 @@
   <div class="section">
     <div class="container">
       <div class="row">
-        <div class="col-md-4">
+        <div class="col-md-5">
+          <p><h4 style="color: #fff">Contact us:</h4></p>
           <h5 class="text-light">Email</h5>
           <p class="text-white paragraph-lg font-secondary"><a href="mailto:{{site.Params.email}}">{{site.Params.email}}</a></p>
-        </div>
-        <div class="col-md-4">
           <h5 class="text-light">Phone</h5>
           <p class="text-white paragraph-lg font-secondary"><a href="tel:{{site.Params.phone}}">{{site.Params.phone}}</a></p>
         </div>
         <div class="col-md-4">
-          <h5 class="text-light">Address</h5>
-          <p class="text-white paragraph-lg font-secondary">{{site.Params.address}}</p>
+          <h5 class="text-light">
+          <img src="images/illustrations/bewinnors.png" alt="BE WINNORS LOGO" style="width:200px;height:200px;"></h5>
+          <!--<p class="text-white paragraph-lg font-secondary">{{site.Params.address}}</p>-->
         </div>
       </div>
     </div>
