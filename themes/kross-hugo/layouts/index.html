@@ -11,7 +11,7 @@
     </div>
 
     <div class="layer-bg h-100 w-100">
-      <img class="img-fluid h-100 w-100" src="{{`images/illustrations/robot-arm-new.png` | relURL}}" alt="bg-shape" class="bg-shape-1 h-100% w-100%">
+      <img class="img-fluid h-100 w-100" src="{{`images/illustrations/robot-arm-new.png` | absURL}}" alt="bg-shape" class="bg-shape-1 h-100% w-100%">
       <!--
       <img src="{{`images/illustrations/be-winnor.png`| relURL}}" alt="illustrations">
       -->
@@ -19,7 +19,7 @@
   
 
     <div class="layer" id="l2">
-      <img src="{{`images/illustrations/dots-cyan.svg` | relURL}}" alt="bg-shape">
+      <img src="{{`images/illustrations/dots-cyan.svg` | absURL}}" alt="bg-shape">
     </div>
     <!--
     <div class="layer" id="l3">
@@ -27,7 +27,7 @@
     </div>
     -->
     <div class="layer" id="l4">
-      <img src="{{`images/illustrations/dots-orange.svg` | relURL}}" alt="bg-shape">
+      <img src="{{`images/illustrations/dots-orange.svg` | absURL}}" alt="bg-shape">
     </div>
     <!--
     <div class="layer" id="l5">
@@ -38,7 +38,7 @@
     </div>
     -->
     <div class="layer" id="l7">
-      <img src="{{`images/illustrations/dots-group-orange.svg` | relURL}}" alt="bg-shape">
+      <img src="{{`images/illustrations/dots-group-orange.svg` | absURL}}" alt="bg-shape">
     </div>
     <!--
     <div class="layer" id="l8">
@@ -81,8 +81,8 @@
 
   <div style="text-align: center;">
     <video width="700" height="350" controls>
-      <source src="images/illustrations/be_winnors.mp4" type="video/mp4">
-      <source src="images/illustrations/be_winnors.ogg" type="video/ogg">
+      <source src="{{ `images/illustrations/be_winnors.mp4` | absURL }}" type="video/mp4">
+      <source src="{{ `images/illustrations/be_winnors.ogg` | absURL }}" type="video/ogg">
       BE WINNORS vedio.
     </video>
   </div>
@@ -165,7 +165,7 @@
       </div>
     </div>
     <!-- bg image -->
-    <img class="img-fluid edu-bg-image w-100" src="{{`images/backgrounds/education-bg.png`|relURL}}" alt="bg-image">
+    <img class="img-fluid edu-bg-image w-100" src="{{ `images/backgrounds/education-bg.png` | absUL }}" alt="bg-image">
   </section>
   <!-- /education -->
   {{ end }}
