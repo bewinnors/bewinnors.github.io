@@ -10,7 +10,8 @@ about:
   button:
     enable : true
     label : "Apply Today!"
-    URL : "https://forms.gle/mjJKGEFbQjbZ3NuY8"
+    URL : "https://forms.gle/mjJKGEFbQjbZ3NuY8"  
+    
 
 # skill
 skill:
