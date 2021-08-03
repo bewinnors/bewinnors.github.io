@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Vision on BE WINNORS</title>
+    <link>http://examplesite.com/categories/computer-vision/</link>
+    <description>Recent content in Computer Vision on BE WINNORS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="http://examplesite.com/categories/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artwork Design</title>
+      <link>http://examplesite.com/project/project-2/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>http://examplesite.com/project/project-2/</guid>
+      <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+  </channel>
+</rss>

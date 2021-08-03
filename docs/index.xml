@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BE WINNORS</title>
+    <link>http://examplesite.com/</link>
+    <description>Recent content on BE WINNORS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Jul 2021 12:14:34 +0600</lastBuildDate><atom:link href="http://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Summer 2021 Internship A</title>
+      <link>http://examplesite.com/program/post-1/</link>
+      <pubDate>Thu, 22 Jul 2021 12:14:34 +0600</pubDate>
+      
+      <guid>http://examplesite.com/program/post-1/</guid>
+      <description>The Be-Winnors project hosts a yearly cohort for student interns to learn how to apply their STEM education to conduct research in an academic environment.</description>
+    </item>
+    
+    <item>
+      <title>Artwork Design</title>
+      <link>http://examplesite.com/project/project-1/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>http://examplesite.com/project/project-1/</guid>
+      <description>Project Requirements B lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Artwork Design</title>
+      <link>http://examplesite.com/project/project-2/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>http://examplesite.com/project/project-2/</guid>
+      <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Artwork Design</title>
+      <link>http://examplesite.com/project/project-3/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>http://examplesite.com/project/project-3/</guid>
+      <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Artwork Design</title>
+      <link>http://examplesite.com/project/project-4/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>http://examplesite.com/project/project-4/</guid>
+      <description>Project Requirements A lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Artwork Design</title>
+      <link>http://examplesite.com/project/project-5/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>http://examplesite.com/project/project-5/</guid>
+      <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Artwork Design</title>
+      <link>http://examplesite.com/project/project-6/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>http://examplesite.com/project/project-6/</guid>
+      <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Summer 2021 Internship B</title>
+      <link>http://examplesite.com/program/post-2/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>http://examplesite.com/program/post-2/</guid>
+      <description>Students are paired with CSULA EECS faculty and graduate student mentors to help make meaningful contributions in one of the projects core technology areas.</description>
+    </item>
+    
+    <item>
+      <title>Summer 2021 Internship C</title>
+      <link>http://examplesite.com/program/post-3/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>http://examplesite.com/program/post-3/</guid>
+      <description>Students are paired with CSULA EECS faculty and graduate student mentors to help make meaningful contributions in one of the projects core technology areas.</description>
+    </item>
+    
+  </channel>
+</rss>

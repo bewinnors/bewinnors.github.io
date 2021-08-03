@@ -93,7 +93,11 @@ service:
 
     - title : "CAD (Computer-Aided Design)"
       icon : "ti-panel"
-      content : "Mesfin ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : "Solidworks CAD drawing of robotic arm provided the ability to prototype the arm and make changes when issues arise
+      
+
+Dynamics analysis feature for virtual testing of movement of robot and possible failure points
+."
       highlighted : false
 
 # gallery project  used to be portfolio 
