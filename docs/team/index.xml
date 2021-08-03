@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Team on BE WINNORS</title>
-    <link>http://examplesite.com/team/</link>
-    <description>Recent content in Team on BE WINNORS</description>
+    <title>Team on </title>
+    <link>https://bewinnors.github.io/team/</link>
+    <description>Recent content in Team on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://examplesite.com/team/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://bewinnors.github.io/team/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

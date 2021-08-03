@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Robot Arm on BE WINNORS</title>
-    <link>http://examplesite.com/categories/robot-arm/</link>
-    <description>Recent content in Robot Arm on BE WINNORS</description>
+    <title>Robot Arm on </title>
+    <link>https://bewinnors.github.io/categories/robot-arm/</link>
+    <description>Recent content in Robot Arm on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="http://examplesite.com/categories/robot-arm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://bewinnors.github.io/categories/robot-arm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Artwork Design</title>
-      <link>http://examplesite.com/project/project-3/</link>
+      <link>https://bewinnors.github.io/project/project-3/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://examplesite.com/project/project-3/</guid>
+      <guid>https://bewinnors.github.io/project/project-3/</guid>
       <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     

@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on BE WINNORS</title>
-    <link>http://examplesite.com/categories/</link>
-    <description>Recent content in Categories on BE WINNORS</description>
+    <title>Categories on </title>
+    <link>https://bewinnors.github.io/categories/</link>
+    <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="http://examplesite.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://bewinnors.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Computer Vision</title>
-      <link>http://examplesite.com/categories/computer-vision/</link>
+      <link>https://bewinnors.github.io/categories/computer-vision/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://examplesite.com/categories/computer-vision/</guid>
+      <guid>https://bewinnors.github.io/categories/computer-vision/</guid>
       <description></description>
     </item>
     
     <item>
       <title>design</title>
-      <link>http://examplesite.com/categories/design/</link>
+      <link>https://bewinnors.github.io/categories/design/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://examplesite.com/categories/design/</guid>
+      <guid>https://bewinnors.github.io/categories/design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>development</title>
-      <link>http://examplesite.com/categories/development/</link>
+      <link>https://bewinnors.github.io/categories/development/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://examplesite.com/categories/development/</guid>
+      <guid>https://bewinnors.github.io/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>illustration</title>
-      <link>http://examplesite.com/categories/illustration/</link>
+      <link>https://bewinnors.github.io/categories/illustration/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://examplesite.com/categories/illustration/</guid>
+      <guid>https://bewinnors.github.io/categories/illustration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robot Arm</title>
-      <link>http://examplesite.com/categories/robot-arm/</link>
+      <link>https://bewinnors.github.io/categories/robot-arm/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://examplesite.com/categories/robot-arm/</guid>
+      <guid>https://bewinnors.github.io/categories/robot-arm/</guid>
       <description></description>
     </item>
     
