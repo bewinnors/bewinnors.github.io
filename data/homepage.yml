@@ -81,12 +81,13 @@ service:
   item:
     - title : "Robotic Arm Design"
       icon : "ti-palette"
-      content : "Mesfin ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : "The goal is to first create a robotic arm prototype specifically designed for individuals with a disability that constrains their movements. After creating our first prototype model, we will use it to guide new incoming first year students and second year students to create a full-scale mode."
       highlighted : false
 
     - title : "Computer Vision"
       icon : "ti-vector"
-      content : "The Computer Vision team oversees the modification of the RealSense Camera’s on the shower assistant robot."
+      content : "Computer Vision goal is to detect the individual’s head and shoulders and the robotic arm. Once that is achieved, we can determine the individual’s position and control where the robotic arm should be according to the individual’s position. 
+."
       highlighted : true
 
     - title : "CAD (Computer-Aided Design)"
