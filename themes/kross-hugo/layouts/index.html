@@ -11,7 +11,7 @@
     </div>
 
     <div class="layer-bg h-100 w-100">
-      <img class="img-fluid h-100 w-100" src="{{`images/illustrations/robot-arm-new.png` | absURL}}" alt="bg-shape" class="bg-shape-1 h-100% w-100%">
+      <img class="img-fluid h-10 w-100" src="{{`images/illustrations/robot-arm-new.png` | absURL}}" alt="bg-shape" class="bg-shape-1 h-0% w-0%">
       <!--
       <img src="{{`images/illustrations/be-winnor.png`| relURL}}" alt="illustrations">
       -->
@@ -25,10 +25,10 @@
     <div class="layer" id="l3">
       <img src="{{`images/illustrations/leaf-orange.svg` | relURL}}" alt="bg-shape">
     </div>
-    -->
-    <div class="layer" id="l4">
+       <div class="layer" id="l4">
       <img src="{{`images/illustrations/dots-orange.svg` | absURL}}" alt="bg-shape">
     </div>
+    -->
     <!--
     <div class="layer" id="l5">
       <img src="{{`images/illustrations/leaf-yellow.svg` | relURL}}" alt="bg-shape">
@@ -36,10 +36,11 @@
     <div class="layer" id="l6">
       <img src="{{`images/illustrations/leaf-cyan.svg` | relURL}}" alt="bg-shape">
     </div>
-    -->
-    <div class="layer" id="l7">
+        <div class="layer" id="l7">
       <img src="{{`images/illustrations/dots-group-orange.svg` | absURL}}" alt="bg-shape">
     </div>
+    -->
+
     <!--
     <div class="layer" id="l8">
       <img src="{{`images/illustrations/leaf-pink-round.svg` | relURL}}" alt="bg-shape">
@@ -49,6 +50,8 @@
     </div>
     -->
     <!-- social icon -->
+  
+
     <ul class="list-unstyled ml-5 mt-3 position-relative zindex-1">
       {{ range site.Params.social }}
       <li class="mb-3"><a class="text-white" href="{{.URL | safeURL }}"><i class="{{.icon}}"></i></a></li>
@@ -58,9 +61,21 @@
   </section>
   <!-- /hero area -->
 
+
   {{ if site.Data.homepage.about.enable }}
   <!-- about -->
+
+  
   <section class="section">
+
+    <div style="text-align: center; position: relative">
+      <video width="1000" height="500" controls>
+        <source src="{{ `images/illustrations/be_winnors.mp4` | absURL }}" type="video/mp4">
+        <source src="{{ `images/illustrations/be_winnors.ogg` | absURL }}" type="video/ogg">
+        BE WINNORS vedio.
+      </video>
+    </div>
+
     <div class="container">
       <div class="row">
         <div class="col-lg-10 mx-auto text-center">
@@ -75,17 +90,12 @@
         </div>
       </div>
     </div>
+    
   </section>
   <!-- /about -->
   {{ end }}
 
-  <div style="text-align: center;">
-    <video width="700" height="350" controls>
-      <source src="{{ `images/illustrations/be_winnors.mp4` | absURL }}" type="video/mp4">
-      <source src="{{ `images/illustrations/be_winnors.ogg` | absURL }}" type="video/ogg">
-      BE WINNORS vedio.
-    </video>
-  </div>
+
 
   {{ if site.Data.homepage.skill.enable }}
   {{ with site.Data.homepage.skill }}
