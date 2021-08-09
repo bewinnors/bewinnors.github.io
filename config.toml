@@ -49,10 +49,10 @@ weight = 2
 # name = "Team"
 # weight = 3
 
-# [[menu.main]]
-# URL = "contact"
-# name = "Contact"
-# weight = 4
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 4
 
 
 # default parameters
@@ -60,7 +60,7 @@ weight = 2
 home = "Home"
 logo = ""
 # theme color
-theme_color = "#464646"
+theme_color = "#41228e"
 # contact info
 phone = "+510 925 8476"
 email = "be@winnors.com"
