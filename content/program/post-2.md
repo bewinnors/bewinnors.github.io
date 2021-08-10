@@ -1,5 +1,5 @@
 ---
-title: "Summer Internship"
+title: "Summer 2021 Internship"
 date: 2021-05-12T12:14:34+06:00
 image: "images/program/post-2.jpg"
 image: "images/program/post-7.jpg"
