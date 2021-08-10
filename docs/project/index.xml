@@ -6,59 +6,23 @@
     <description>Recent content in Project on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://bewinnors.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 May 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://bewinnors.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Artwork Design</title>
-      <link>https://bewinnors.github.io/project/project-1/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
-      
-      <guid>https://bewinnors.github.io/project/project-1/</guid>
-      <description>Project Requirements B lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Artwork Design</title>
+      <title>Computer Vision</title>
       <link>https://bewinnors.github.io/project/project-2/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      <pubDate>Wed, 12 May 2021 12:14:34 +0600</pubDate>
       
       <guid>https://bewinnors.github.io/project/project-2/</guid>
       <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
-      <title>Artwork Design</title>
-      <link>https://bewinnors.github.io/project/project-3/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      <title>Robotic Arm Project</title>
+      <link>https://bewinnors.github.io/project/project-1/</link>
+      <pubDate>Wed, 12 May 2021 12:14:34 +0600</pubDate>
       
-      <guid>https://bewinnors.github.io/project/project-3/</guid>
-      <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Artwork Design</title>
-      <link>https://bewinnors.github.io/project/project-4/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
-      
-      <guid>https://bewinnors.github.io/project/project-4/</guid>
-      <description>Project Requirements A lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Artwork Design</title>
-      <link>https://bewinnors.github.io/project/project-5/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
-      
-      <guid>https://bewinnors.github.io/project/project-5/</guid>
-      <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Artwork Design</title>
-      <link>https://bewinnors.github.io/project/project-6/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
-      
-      <guid>https://bewinnors.github.io/project/project-6/</guid>
-      <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://bewinnors.github.io/project/project-1/</guid>
+      <description>Project Requirements B lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
   </channel>

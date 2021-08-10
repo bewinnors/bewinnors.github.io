@@ -10,7 +10,7 @@ The Be-Winnors project hosts a yearly cohort for student interns to learn how to
 
 Interns were paired with CSULA EECS faculty and graduate student mentors to help make meaningful contributions in one of the projects core technology areas.
 
-Inters were responsilbe in performing number of task,and workedZ on different project. Individually held leadership responsabilites on a weekly basis.  They were responsible with time managing mulitple projects. Worked along side with mentors that guided them through the process of being part of team.
+Inters were responsilbe in performing number of task,and workedZ on different project. Individually held leadership responsabilites on a weekly basis.  They were responsible with time managing mulitple projects. Wo rked along side with mentors that guided them through the process of being part of team.
 
 Interns gained knowled of workign with large team. Explored engineering and computer science projects. Contributed with hands on work that helped gained techincal skills. 
 
