@@ -83,19 +83,19 @@ intern_team:
       image : "images/about/Mesfin.jpg"
       # designation : "Computer Vision Team"
       
-    - title : "Abigail Zulueta"
-      image : "images/about/Luz.jpg"
+    - title : "Luz Hernandez"
+      image : "images/about/luzhernandez.jpg"
       # designation : "Computer Vision Team"
       
-    - title : "Christopher Morales"
+    - title : "Aaron Dixon"
       image : "images/about/Aaron.jpg"
       # designation : "Computer Vision Team"
 
-    - title : "Maria Gonzalez"
+    - title : "Martha Rosas"
       image : "images/about/Martha.jpg"
       # designation : "Robotic Arm Team"
 
-    - title : "Steven Magaña"
+    - title : "Felix Murray"
       image : "images/about/Felix.jpg"
       # designation : "Robotic Arm Team"
 
