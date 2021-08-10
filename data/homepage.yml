@@ -5,11 +5,10 @@ banner:
 # about
 about:
   enable : true
-  content: ""
   content : "Apply today to become part of the Be-Winnors intern team! Interns work on exciting projects which touch multiple engineering disciplines as they gain relevant work experience and make life-long professional connections."
   button:
     enable : true
-    label : "Apply Today!"
+    label : "Apply here!"
     URL : "https://forms.gle/mjJKGEFbQjbZ3NuY8" 
     highlighted : true
     

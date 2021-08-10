@@ -93,11 +93,11 @@ h6,
   font-size: 22px;
   font-family: playfair display, serif;
   text-transform: capitalize;
-  color: #fff;
+  color: black;
   padding: 12px 34px;
   border-radius: 5px;
   font-weight: 600;
-  border: 5px solid #464646;
+  border: 4px solid #464646;
   position: relative;
   z-index: 1;
   transition: .2s ease
@@ -137,6 +137,10 @@ h6,
 
 .btn-primary:hover {
   background: var(--primary-color)
+}
+
+.btn:hover {
+  text-shadow: 1px 1px 2px #464646, 0 0 25px #fff, 0 0 5px #464646;
 }
 
 .btn-primary.focus,
