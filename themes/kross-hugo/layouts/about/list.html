@@ -13,7 +13,7 @@
   </div>
   <!-- background shapes -->
   <div class="layer-bg h-100 w-100">
-    <img class="img-fluid h-100 w-100" src="{{`images/illustrations/robot-arm-new.png` | relURL}}" alt="bg-shape" class="bg-shape-1 h-100% w-100%">
+    <img class="img-fluid h-20 w-100" src="{{`images/illustrations/robot-arm-new.png` | relURL}}" alt="bg-shape" class="bg-shape-1 h-100% w-100%">
   </div>
   <!--
   <img src="{{`images/illustrations/dots-group-sm.svg`| relURL}}" alt="illustrations" class="bg-shape-2">
@@ -123,6 +123,34 @@
 {{ end }}
 {{ end }}
 <!-- /Mentor_Team -->
+
+
+<!-- Intern Team -->
+{{ if site.Data.about.intern_team.enable }}
+{{ with site.Data.about.intern_team }}
+<section class="section bg-cover" data-background="{{`images/backgrounds/team-bg.png`|relURL}}">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">{{ .title | markdownify }}</h2>
+      </div>
+      {{ range .team_member }}
+      <div class="col-md-4 col-sm-6 mb-4 mb-md-0">
+        <div class="card text-center">
+          <img src="{{ .image | absURL }}" class="card-img-top">
+          <div class="card-body">
+            <h4 class="card-title">{{.title }}</h4>
+            <p class="text-light font-secondary">{{.designation }}</p>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /Intern_Team -->
 
 {{ if site.Data.about.clients_logo_slider.enable }}
 <section class="section">
