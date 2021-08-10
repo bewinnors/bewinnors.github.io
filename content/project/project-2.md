@@ -1,9 +1,17 @@
 ---
-title: "Artwork Design"
-date: 2019-05-12T12:14:34+06:00
-image: "images/project/item-2.png"
-client: "John Doe"
-project_url : "https://themefisher.com/"
+title: "Computer Vision"
+date: 2021-05-12T12:14:34+06:00
+
+
+image2: "images/project/item-7.png"
+image3: "images/project/item-8.png"
+image4: "images/project/item-9.png"
+image5: "images/project/item-10.png"
+image6: "images/project/item-11.png"
+image: "images/project/item-12.png"
+
+# client: "John Doe"
+# project_url : "https://themefisher.com/"
 categories: ["Computer Vision"]
 description: "This is meta description."
 draft: false

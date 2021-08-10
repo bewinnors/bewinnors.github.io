@@ -2,11 +2,14 @@
 title: "Artwork Design"
 date: 2019-05-12T12:14:34+06:00
 image: "images/project/item-8.png"
+image: "images/project/item-1.png"
+image: "images/project/item-2.png"
+image: "images/project/item-3.png"
 client: "John Doe"
 project_url : "https://themefisher.com/"
 categories: ["illustration","development"]
 description: "This is meta description."
-draft: false
+draft: true
 ---
 
 #### Project Requirements

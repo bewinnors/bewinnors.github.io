@@ -3,7 +3,7 @@ title: "Summer 2023 Internship"
 date: 2019-05-12T12:14:34+06:00
 image: "images/program/post-7.jpg"
 description: "This is meta description."
-draft: false
+draft: true
 ---
 
 Students are paired with CSULA EECS faculty and graduate student mentors to help make meaningful contributions in one of the projects core technology areas.

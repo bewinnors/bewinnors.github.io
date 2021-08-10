@@ -1,11 +1,18 @@
 ---
-title: "Artwork Design"
-date: 2019-05-12T12:14:34+06:00
-image: "images/project/item-1.png"
-image: "images/project/item-9.png"
-client: "John Doe"
-project_url : "https://themefisher.com/"
-categories: ["design","development"]
+title: "Robotic Arm Project"
+date: 2021-05-12T12:14:34+06:00
+
+
+image2: "images/project/item-1.png"
+image3: "images/project/item-2.png"
+image4: "images/project/item-3.png"
+image5: "images/project/item-4.png"
+image6: "images/project/item-5.png"
+image: "images/project/item-6.png"
+
+# client: "John Doe"
+# project_url : "https://themefisher.com/"
+categories: ["Robotic Arm"]
 description: "This is meta description."
 draft: false
 ---
