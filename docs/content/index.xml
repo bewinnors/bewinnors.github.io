@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Project on </title>
-    <link>https://bewinnors.github.io/project/</link>
-    <description>Recent content in Project on </description>
+    <title>Content on </title>
+    <link>https://bewinnors.github.io/content/</link>
+    <description>Recent content in Content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 May 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://bewinnors.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 May 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://bewinnors.github.io/content/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Computer Vision</title>
-      <link>https://bewinnors.github.io/project/project-2/</link>
+      <link>https://bewinnors.github.io/content/project-2/</link>
       <pubDate>Wed, 12 May 2021 12:14:34 +0600</pubDate>
       
-      <guid>https://bewinnors.github.io/project/project-2/</guid>
+      <guid>https://bewinnors.github.io/content/project-2/</guid>
       <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Robotic Arm Project</title>
-      <link>https://bewinnors.github.io/project/project-1/</link>
+      <link>https://bewinnors.github.io/content/project-1/</link>
       <pubDate>Wed, 12 May 2021 12:14:34 +0600</pubDate>
       
-      <guid>https://bewinnors.github.io/project/project-1/</guid>
+      <guid>https://bewinnors.github.io/content/project-1/</guid>
       <description>Project Requirements B lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
