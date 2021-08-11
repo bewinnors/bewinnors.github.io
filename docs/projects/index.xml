@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>https://bewinnors.github.io/</link>
-    <description>Recent content on </description>
+    <title>Projects on </title>
+    <link>https://bewinnors.github.io/projects/</link>
+    <description>Recent content in Projects on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Jul 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://bewinnors.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Summer Internship</title>
-      <link>https://bewinnors.github.io/program/post-1/</link>
-      <pubDate>Thu, 22 Jul 2021 12:14:34 +0600</pubDate>
-      
-      <guid>https://bewinnors.github.io/program/post-1/</guid>
-      <description>The Be-Winnors project hosts a yearly cohort for student interns to learn how to apply their STEM education to conduct research in an academic environment.</description>
-    </item>
-    
+    <lastBuildDate>Wed, 12 May 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://bewinnors.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>COVID-19 Mobile Health App</title>
       <link>https://bewinnors.github.io/projects/project-2/</link>
@@ -32,15 +23,6 @@
       
       <guid>https://bewinnors.github.io/projects/project-1/</guid>
       <description>This assistive robot enables users to independently shower without the help of a home healthcare worker.</description>
-    </item>
-    
-    <item>
-      <title>Summer 2021 Internship</title>
-      <link>https://bewinnors.github.io/program/post-2/</link>
-      <pubDate>Wed, 12 May 2021 12:14:34 +0600</pubDate>
-      
-      <guid>https://bewinnors.github.io/program/post-2/</guid>
-      <description>Students are paired with CSULA EECS faculty and graduate student mentors to help make meaningful contributions in one of the projects core technology areas.</description>
     </item>
     
   </channel>
