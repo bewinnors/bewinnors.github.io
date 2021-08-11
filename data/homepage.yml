@@ -131,7 +131,7 @@ testimonial:
 # client logo slider
 # CSU College of Engineering, Xilinx
 clients_logo_slider:
-  enable : false
+  enable : true
   item:
     - logo : "images/clients-logo/client-logo-1.png"
       URL : "http://examplesite.com"

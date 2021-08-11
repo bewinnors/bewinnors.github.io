@@ -90,7 +90,7 @@
           <p class="font-secondary lead text-dark">{{.content | markdownify}}</p>
           {{ if .button.enable }}
           {{ with .button }}
-          <a href="{{ .URL | absURL }}" class="btn btn-transparent">{{.label}}</a>
+          <a href="{{ .URL | absURL }}" target="_blank" class="btn btn-transparent">{{.label}}</a>
           {{ end }}
           {{ end }}
           {{ end }}

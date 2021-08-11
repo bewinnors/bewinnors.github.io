@@ -152,6 +152,25 @@
 {{ end }}
 <!-- /Intern_Team -->
 
+<!-- sponsors description -->
+{{ if site.Data.sponsors.sponsors_description.enable }}
+{{ with site.Data.sponsors.sponsors_description }}
+<section class="section bg-cover" data-background="{{`images/backgrounds/team-bg.png`|relURL}}">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">{{ .title | markdownify }}</h2>
+      </div>
+      {{ range .paragraphs }}
+        <p>{{ .text }}</p>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /sponsors description -->
+
 {{ if site.Data.about.clients_logo_slider.enable }}
 <section class="section">
   <div class="container">
@@ -166,3 +185,4 @@
 {{ end }}
 
 {{ end }}
+

@@ -100,7 +100,13 @@ intern_team:
       # designation : "Robotic Arm Team"
 
 
-
+# Sponsor description
+title: "Sponsors"
+sponsors_description:
+  enable: false
+  paragraphs:
+    - text : "Funded by Xilinx Women in Technology University Grant Program and CSU Instructionally Related Activities."
+    # - text: ""
 
 # client logo slider
 clients_logo_slider:
