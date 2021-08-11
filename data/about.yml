@@ -22,7 +22,7 @@ title: "About"
 about_description:
   enable: true
   paragraphs:
-    - text : 
+    - text : "The Be-Winnors project hosts a yearly cohort for student interns to learn how to apply their STEM education to conduct research in an academic environment. Students are paired with CSULA EECS faculty and graduate student mentors to help make meaningful contributions in one of the projects core technology areas."
     # - text: ""
 
 
@@ -100,6 +100,17 @@ intern_team:
       # designation : "Robotic Arm Team"
 
 
+<<<<<<< HEAD
+=======
+# Sponsor description
+sponsors_description:
+  title: "Sponsors"
+  enable: true
+  paragraphs:
+    - text : "Funded by Xilinx Women in Technology University Grant Program and CSU Instructionally Related Activities."
+    # - text: ""
+
+>>>>>>> fd59444fa539616f86c1f6c5dfed458912e9d9b8
 # client logo slider
 clients_logo_slider:
   enable : false
