@@ -22,7 +22,7 @@ title: "About"
 about_description:
   enable: true
   paragraphs:
-    - text : "The Be-Winnors project hosts a yearly cohort for student interns to learn how to apply their STEM education to conduct research in an academic environment. Students are paired with CSULA EECS faculty and graduate student mentors to help make meaningful contributions in one of the projects core technology areas."
+    - text : "The Be-Winnors project hosts a yearly cohort for student interns to learn how to apply their STEM education to create working projects and practice the engineering process in an academic environment. Students are paired with Cal State LA Electrical and Computer Engineering and Computer Science faculty and peer mentors to help make meaningful contributions in one of the projects core technology areas."
     # - text: ""
 
 
@@ -32,17 +32,23 @@ faculty_team:
   enable: true
   title : "Faculty Mentor Team"
   team_member:
-    - title : "Charles W. Liu, Ph.D."
-      image : "images/about/liu_print.jpg"
-      designation : "Chair & Advisor, ECE Department"
-      
     - title : "Deborah Won, Ph.D"
       image : "images/about/won_print.jpg"
-      designation : "Professor, Biomedical Engineering"
-      
+      designation : "Director, BE WINNORS Program; Professor, Electrical and Computer Engineering"
+
     - title : "Dr. Curtis Wang, Ph.D."
       image : "images/about/wang_print.png"
-      designation : "Professor, Computer Engineering"
+      designation : "Assistant Professor, Electrical and Computer Engineering"
+
+    - title : "Navid Amini, Ph.D."
+      image : "images/about/amini_print.jpg"
+      designation : "Assistant Professor, Computer Science"
+
+    - title : "Charles W. Liu, Ph.D."
+      image : "images/about/liu_print.jpg"
+      designation : "Professor, Electrical and Computer Engineering"
+      
+
 
 # mentor team
 mentor_team:
@@ -77,7 +83,7 @@ mentor_team:
       #Intern team
 intern_team:
   enable: true
-  title : "Intern Team"
+  title : "Community College Intern Team"
   team_member:
     - title : "Mesfin Kebede"
       image : "images/about/Mesfin.jpg"
@@ -105,7 +111,7 @@ sponsors_description:
   title: "Sponsors"
   enable: true
   paragraphs:
-    - text : "Funded by Xilinx Women in Technology University Grant Program and CSU Instructionally Related Activities."
+    - text : "Funded by Xilinx Women in Technology University Grant Program and California State University Instructionally Related Activities."
     # - text: ""
 
 # client logo slider

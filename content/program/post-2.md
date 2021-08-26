@@ -7,5 +7,5 @@ description: "This is meta description."
 draft: false
 ---
 
-Students are paired with CSULA EECS faculty and graduate student mentors to help make meaningful contributions in one of the projects core technology areas.
+Students are paired with Cal State LA Electrical and Computer Engineering and Computer Science faculty and peer mentors to help make meaningful contributions in one of the projects core technology areas.
 
